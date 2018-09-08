@@ -1,0 +1,31 @@
+; Version: 2.2
+; Computer: MetaCentrum grid
+; Installation: Czech national grid
+; Acknowledge: Dalibor Klusacek
+; Information: http://meta.cesnet.cz/
+;              http://www.cs.huji.ac.il/labs/parallel/workload/
+; Conversion: Nati Zakay (netanel.zakay@mail.huji.ac.il) 13 Dec 2011
+; MaxJobs: 103656
+; MaxRecords: 103656
+; Preemption: No
+; UnixStartTime: 1228910204
+; TimeZone: 3600
+; TimeZoneString: Europe/Prague
+; StartTime: Wed Dec 10 12:56:44 CET 2008
+; EndTime:   Fri Jun 26 10:25:21 CEST 2009
+; MaxNodes: 806
+; MaxProcs: 806
+; Note: uses the PBSpro scheduler
+; Queues: for each queue there are two fields.
+; MaxQueues: 11
+
+    1        0     65 2592042    1     -1 1009884   -1     -1    -1  0   1  -1  -1  2  9 -1 -1
+    2        0     71 2592046    1     -1 1010132   -1     -1    -1  0   1  -1  -1  2  9 -1 -1
+    3       19 1038341 1893368    1     -1 1010108   -1     -1    -1  0   1  -1  -1  2  9 -1 -1
+    4       19 1038342 1825976    1     -1  2172   -1     -1    -1  0   1  -1  -1  2  9 -1 -1
+    5   516420     15 2592030    2     -1  4940   -1     -1    -1  0   2  -1  -1  1  8 -1 -1
+    6  1284365     26 2012962    1     -1 14088   -1     -1    -1  1   3  -1  -1  1  8 -1 -1
+    7  1284365     26 2290213    1     -1 13556   -1     -1    -1  1   3  -1  -1  1  8 -1 -1
+    8  1284365     28 2058925    1     -1 14124   -1     -1    -1  1   3  -1  -1  1  8 -1 -1
+    9  1284366     26 1782465    1     -1 14584   -1     -1    -1  1   3  -1  -1  1  8 -1 -1
+   10  1284366     27 1831699    1     -1 14112   -1     -1    -1  1   3  -1  -1  1  8 -1 -1

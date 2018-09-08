@@ -1,0 +1,30 @@
+; Version: 2.2
+; Computer: Linux cluster (Thunder)
+; Installation: High Performance Computing - Lawrence Livermore National Laboratory
+; Acknowledge: Moe Jette, LLNL
+; Information: https://computing.llnl.gov/?set=resources&page=OCF_resources#thunder
+; Conversion: Sarah Gingichashvili and Dror Feitelson (feit@cs.huji.ac.il) 18 Mar 2008
+; MaxJobs: 128662
+; MaxRecords: 128662
+; Preemption: No
+; UnixStartTime: 1170175078
+; TimeZoneString: US/Pacific
+; StartTime: Tue Jan 30 08:37:58 PST 2007
+; EndTime:   Fri Jun 29 14:21:12 PDT 2007
+; MaxNodes: 1002
+; MaxProcs: 4008
+; Note: Scheduler is Slurm (https://computing.llnl.gov/linux/slurm/)
+; MaxPartitions: 2
+; Partition:  1 pbatch 
+; Partition:  2 pdebug 
+;
+    1        0     -1  34616  472     -1    -1  156     -1    -1  0  16  -1  64 -1  1 -1 -1
+    2        0     -1  34616  472     -1    -1  384     -1    -1  0  16  -1  64 -1  1 -1 -1
+    3   207147     -1  42010   24     -1    -1   24     -1    -1  5   7  -1   7 -1  1 -1 -1
+    4   207194     -1  42003   24     -1    -1   24     -1    -1  5   7  -1   8 -1  1 -1 -1
+    5   210597     -1  43200   64     -1    -1   64     -1    -1  5  11  -1  13 -1  1 -1 -1
+    6   218473     -1  43202   40     -1    -1   40     -1    -1  5  15  -1  25 -1  1 -1 -1
+    7   219455     -1  39915   24     -1    -1   24     -1    -1  5   7  -1  19 -1  1 -1 -1
+    8   223301     -1  43200  960     -1    -1  960     -1    -1  5  23  -1  39 -1  1 -1 -1
+    9   225144     -1  18438   64     -1    -1   64     -1    -1  1   2  -1   2 -1  1 -1 -1
+   10   226744     -1  18000  120     -1    -1  120     -1    -1  5   3  -1   3 -1  1 -1 -1

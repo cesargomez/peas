@@ -1,0 +1,37 @@
+; Version: 2.2
+; Computer: Linux cluster (Seth)
+; Installation: HPC2N - High Performance Computing Center North, Sweden
+; Acknowledge: Ake Sandgren
+; Information: http://www.hpc2n.umu.se/support/userguide/Seth/batchsystem.html
+; Conversion: Sarah Gingichashvili and Dror Feitelson (feit@cs.huji.ac.il) 05 Dec 2011
+; MaxJobs: 527371
+; MaxRecords: 527371
+; Preemption: No
+; UnixStartTime: 1027839845
+; TimeZone: 3600
+; TimeZoneString: Europe/Stockholm
+; StartTime: Sun Jul 28 09:04:05 CEST 2002
+; EndTime:   Mon Jan 16 20:31:24 CET 2006
+; MaxNodes: 240
+; MaxProcs: 240
+; Note: uses MAUI scheduler
+; MaxQueues: 1
+; Queue:  1 [fque:1] 
+; MaxPartitions: 2
+
+    1        0 308434  31405   30  31405    -1   30  37980    -1  1   1   1  -1 -1  1 -1 -1
+    2        8 308426  31039   30  31039    -1   30  37980    -1  1   1   1  -1 -1  1 -1 -1
+    3       12 308483  30978   30  30978    -1   30  37980    -1  1   1   1  -1 -1  1 -1 -1
+    4   179350  99808 143967    2 142977    -1    2 144000    -1  1   3   1  -1 -1  1 -1 -1
+   10   310085  29510   2326   40   2326    -1   40  43200    -1  1   4   1  -1 -1  1 -1 -1
+   11   342072     32  43306   32  43307    -1   32  43200    -1  1   4   1  -1 -1  1 -1 -1
+   12   342343      5    553   40 552.21    -1   40  43200    -1  1   4   1  -1 -1  1 -1 -1
+   13   342921    102  10027   40  10027    -1   40  43200    -1  1   4   1  -1 -1  1 -1 -1
+   14   347226     15  33156    8  33157    -1    8  86400    -1  1   5   1  -1 -1  1 -1 -1
+   15   347593     15  86462    8  86464    -1    8  86400    -1  1   5   1  -1 -1  1 -1 -1
+   16   347726      5 240379    8 240379    -1    8 345600    -1 -1   5   1  -1 -1  1 -1 -1
+   17   347844      9   2201    8   2201    -1    8 432000    -1  1   5   1  -1 -1  1 -1 -1
+   18   347927     48 240135    8 240135    -1    8 432000    -1 -1   5   1  -1 -1  1 -1 -1
+   19   347985     51 240074    8 240074    -1    8 432000    -1 -1   5   1  -1 -1  1 -1 -1
+   20   348019     17   4097    8   4097    -1    8 432000    -1  1   5   1  -1 -1  1 -1 -1
+ 
