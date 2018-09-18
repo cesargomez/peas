@@ -4,8 +4,6 @@ PEAS - The Performance and Energy Aware Simulator
 ## Intro
 PEAS Simulator is an event-driven job scheduler simulator that is meant to help in the evaluation and optimal utilization of hardware and energy resources of HPC environments.
 
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0743731516300788-gr2.jpg">
-
 ## How does the simulator work?
 1. Prior to the start of the simulation, a file containing the jobs workload in SWF format [0] and a CSV file with the cluster configuration, with data taken from the SPECpower_ssj2008 benchmark [1], are processed.
 2. After the workload and the hardware resources are loaded into the simulator, the scheduling and resource selection policies are read from a configuration file [2].
