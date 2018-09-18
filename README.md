@@ -29,4 +29,4 @@ If you want to change the configuration check the [config file](https://github.c
 * Artificial bee colony algorithm: [Optimization of resources in parallel systems using a multiobjective artificial bee colony algorithm](https://link.springer.com/article/10.1007/s11227-018-2407-5)
 
 ## License
-Please, reffer to the [LICENSE file](https://github.com/cesargomez/peas/blob/master/LICENSE)
+Please, refer to the [LICENSE file](https://github.com/cesargomez/peas/blob/master/LICENSE)
